@@ -4,5 +4,5 @@
 
 ```sh
 % brew tap teoljungberg/formulae
-% brew install FORMULA
+% brew install FORMULA # such as setrb
 ```
